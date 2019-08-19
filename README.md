@@ -1,0 +1,1 @@
+# Snillrik Gamescore Server
