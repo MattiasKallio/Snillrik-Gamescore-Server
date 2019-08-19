@@ -1,0 +1,12 @@
+
+.snillrik_gamescore li{
+    background:#f3f3f3;
+}
+.snillrik_gamescore li:nth-child(odd){
+    background:#e3e3e3;
+}
+.snillrik_gamescore li div{
+    width: 33%;
+    display: inline-block;
+    padding: 10px;
+}
